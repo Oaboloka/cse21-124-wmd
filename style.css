@@ -1,0 +1,8 @@
+.boll {
+  background-image: url(img/movie-theater.jpg );
+  background-repeat:repeat;
+
+  width: 200%;
+  height: 200vh; 
+    background-attachment: scroll;
+}
